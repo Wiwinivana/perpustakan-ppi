@@ -1,0 +1,24 @@
+body {
+	background-color: #c1c8de; 
+}
+h1 {
+	color: white;
+	text-align: center;
+}
+
+p {
+	font-family: Arial;
+	font-size: 20px;  
+}
+
+
+.tengah{
+position: absolute;
+margin-top: -200px;
+margin-left: -200px;
+left: 50%;
+top: 50%;
+width: 400px;
+height: 220px;
+background-color: #c1c8de;
+}

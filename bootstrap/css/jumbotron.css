@@ -1,0 +1,8 @@
+ .jumbotron {
+    position: absolute;
+    background: #B0E0E6 url("jumbotron-bg.png") center center;
+    width: 400px;
+    height: 220px;
+    background-size: cover;
+    overflow: hidden;
+}
